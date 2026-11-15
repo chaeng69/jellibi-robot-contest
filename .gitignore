@@ -1,0 +1,18 @@
+# Local build outputs and editor files
+build/
+.build/
+*.hex
+*.elf
+*.o
+*.a
+*.bin
+*.map
+*.zip
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local credentials
+.env
+.env.*
+!.env.example

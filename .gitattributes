@@ -1,0 +1,5 @@
+# Keep sketch line endings unchanged by Git.
+*.ino -text
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
